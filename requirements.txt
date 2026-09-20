@@ -1,0 +1,40 @@
+# Jupyter
+jupyter
+ipykernel
+
+# Data Processing
+pandas
+numpy
+
+# PDF Processing
+pypdf
+
+# Text Splitting
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+chromadb
+
+# Ollama
+ollama
+
+# Environment Variables
+python-dotenv
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Frontend
+streamlit
+requests
+
+# Testing
+pytest
+httpx
+python-multipart
